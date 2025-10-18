@@ -30,8 +30,6 @@ Há dois fluxos principais:
 
 │ ├── verify_copies.R # (opcional) checa se o plano foi copiado
 
-│ └── make_traps.R # (opcional) gera listas T01A.., S01B.., C02A..
-
 ├── README.md
 
 ├── .gitignore
